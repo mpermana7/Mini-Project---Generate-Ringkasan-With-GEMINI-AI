@@ -1,0 +1,25 @@
+# Golang binary
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go coverage
+*.out
+
+# Node modules
+frontend/node_modules/
+
+# Vite cache
+frontend/.vite/
+
+# Environment variable
+.env
+
+# VSCode
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
