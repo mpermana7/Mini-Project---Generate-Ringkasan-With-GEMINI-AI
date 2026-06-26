@@ -24,8 +24,8 @@ type Document struct {
 }
 
 func generateAISummary(content string) string {
-	// Ganti dengan API Key Gemini milik Anda
-	apiKey := os.Getenv("GEMINI_API_KEY")
+	// Ganti dengan API Key Gemini
+	apiKey := "AQ.Ab8RN6JL3WwHczwCG3OguvQlN2A1zBPTt2mFnMFbczk5V9v6sg"
 
 	apiURL := "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 
