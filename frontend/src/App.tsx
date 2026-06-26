@@ -56,8 +56,8 @@ export default function App() {
       {/* Top Header Card dengan visualisasi 3D Neumorphic border tipis */}
       <header className="mb-8 p-6 bg-white rounded-2xl border border-slate-200/80 shadow-[4px_4px_0px_0px_rgba(0,0,0,0.04)] flex justify-between items-center">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight text-slate-900">Pillbox Hub</h1>
-          <p className="text-sm text-slate-500 font-medium">Lead Developer Assessment Room</p>
+          <h1 className="text-2xl font-bold tracking-tight text-slate-900">Mochamad Permana Ash Shidiq</h1>
+          <p className="text-sm text-slate-500 font-medium">Web Developer / Fullstack Web Developer</p>
         </div>
         <div className="flex items-center gap-2 px-4 py-2 bg-emerald-50 text-emerald-700 text-xs font-bold rounded-xl border border-emerald-200 shadow-[2px_2px_0px_0px_rgba(16,185,129,0.1)]">
           <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
