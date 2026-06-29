@@ -1,4 +1,4 @@
-module belajar-golang-dasar
+module ai-generate-ringkasan
 
 go 1.26.4
 
